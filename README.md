@@ -1,2 +1,3 @@
-# Predicci-n-de-Churn-con-Python-y-Machine-Learning
+# Proyecto de predicción de Churn con Python y Machine Learning
+
 Proyecto
