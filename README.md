@@ -41,3 +41,10 @@ Python · Pandas · NumPy · Scikit-learn · imbalanced-learn (SMOTE) · Matplot
 Random Forest fue el modelo con mejor desempeño: Accuracy de 0.95 y F1 de 0.81 en la clase minoritaria ("no abandona"), detectando correctamente al 96% de los clientes que de verdad no abandonan. Superó a KNN (F1 0.68) y a Regresión Logística (F1 0.60), y también obtuvo el mejor resultado en las curvas ROC (AUC 0.98) y Precision-Recall (AP 0.83), confirmando que su ventaja se sostiene en distintos umbrales de decisión, no solo en el 0.5 por defecto.
 
 El principal reto del proyecto fue el desbalance de clases: con solo 117 registros de la clase minoritaria sobre 1,000 en total, la accuracy por sí sola resultaba engañosa, y fue necesario evaluar con métricas más específicas para elegir el modelo correcto.
+
+--- 
+
+## Proyecto en .ipynb
+
+[Proyecto](https://github.com/aacekm-7/Prediccion-De-Churn-ML/blob/aede864df96abf63bbc5abe1dc33cc577a0e6539/notebooks/full_notebook.ipynb)
+
