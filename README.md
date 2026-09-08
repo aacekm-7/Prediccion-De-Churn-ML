@@ -1,5 +1,3 @@
-# Proyecto de predicción de Churn con Python y Machine Learning
-
 # 📉 Predicción de Abandono de Clientes (Churn) con Machine Learning
 
 Proyecto de clasificación que predice si un cliente abandonará el servicio, comparando tres modelos (Regresión Logística, KNN y Random Forest) bajo un dataset con fuerte desbalance de clases.
