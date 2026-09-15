@@ -44,7 +44,7 @@ El principal reto del proyecto fue el desbalance de clases: con solo 117 registr
 
 --- 
 
-## Proyecto en .ipynb
+## Proyecto en notebook
 
 [Proyecto](https://github.com/aacekm-7/Prediccion-De-Churn-ML/blob/aede864df96abf63bbc5abe1dc33cc577a0e6539/notebooks/full_notebook.ipynb)
 
